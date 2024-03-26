@@ -9,7 +9,7 @@ const Tailwind = () => {
           <h1
             className="bg-gradient-to-r from-green-300 via-blue-500 to-purple-600 bg-clip-text text-6xl font-extrabold text-transparent sm:text-8xl"
           >
-           OSDC Hack
+           OSDC Hack'24
     
             {/* <span className="sm:block"> Increase Conversion. </span> */}
           </h1>
@@ -20,7 +20,8 @@ const Tailwind = () => {
     
           <p className="mx-auto mt-4 max-w-2xl sm:text-xl/relaxed">
            Welcome to the best hackathon
-         
+           Lorem ipsum dolor sit amet consectetur adipisicing elit. In, similique.
+            lorem10
           </p>
     
           <div className="mt-8 flex flex-wrap justify-center gap-4">
@@ -31,12 +32,12 @@ const Tailwind = () => {
               Get Started
             </a>
     
-            {/* <a
+            <a
               className="block w-full rounded border border-blue-600 px-12 py-3 text-sm font-medium text-white hover:bg-blue-600 focus:outline-none focus:ring active:bg-blue-500 sm:w-auto"
               href="#"
             >
               Learn More
-            </a> */}
+            </a>
           </div>
 
           
