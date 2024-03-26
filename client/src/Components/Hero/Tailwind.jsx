@@ -21,7 +21,7 @@ const Tailwind = () => {
           <p className="mx-auto mt-4 max-w-2xl sm:text-xl/relaxed">
            Welcome to the best hackathon
            Lorem ipsum dolor sit amet consectetur adipisicing elit. In, similique.
-            lorem10
+           
           </p>
     
           <div className="mt-8 flex flex-wrap justify-center gap-4">
